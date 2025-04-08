@@ -17,7 +17,7 @@ This project is adapted from the following tutorial, with the original **Maven b
 ## Architecture Diagram
  *The diagram used below is provided by the original author and reused in this project.*
 
-![Architecture Diagram](image.png)
+![Architecture Diagram](diagrams/image.png)
 
 ---
 
