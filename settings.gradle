@@ -1,0 +1,10 @@
+rootProject.name = 'spring-cloud-example'
+
+include 'services:config-server'
+include 'services:discovery'
+include 'services:customer'
+include 'services:product'
+include 'services:order'
+include 'services:payment'
+include 'services:notification'
+include 'services:gateway'

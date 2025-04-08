@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../tools/gradle-7.6.4-bin/gradle-7.6.4" />
+        <option name="gradleJvm" value="#GRADLE_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/services" />
+            <option value="$PROJECT_DIR$/services/config-server" />
+            <option value="$PROJECT_DIR$/services/customer" />
+            <option value="$PROJECT_DIR$/services/discovery" />
+            <option value="$PROJECT_DIR$/services/gateway" />
+            <option value="$PROJECT_DIR$/services/notification" />
+            <option value="$PROJECT_DIR$/services/order" />
+            <option value="$PROJECT_DIR$/services/payment" />
+            <option value="$PROJECT_DIR$/services/product" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/services/gateway" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../tools/gradle-7.6.4-bin/gradle-7.6.4" />
+        <option name="gradleJvm" value="temurin-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/services" />
+            <option value="$PROJECT_DIR$/services/config-server" />
+            <option value="$PROJECT_DIR$/services/customer" />
+            <option value="$PROJECT_DIR$/services/discovery" />
+            <option value="$PROJECT_DIR$/services/gateway" />
+            <option value="$PROJECT_DIR$/services/notification" />
+            <option value="$PROJECT_DIR$/services/order" />
+            <option value="$PROJECT_DIR$/services/payment" />
+            <option value="$PROJECT_DIR$/services/product" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/customer/spring-cloud-example.services.customer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/services/customer/spring-cloud-example.services.customer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/notification/spring-cloud-example.services.notification.main.iml" filepath="$PROJECT_DIR$/.idea/modules/services/notification/spring-cloud-example.services.notification.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/order/spring-cloud-example.services.order.main.iml" filepath="$PROJECT_DIR$/.idea/modules/services/order/spring-cloud-example.services.order.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/payment/spring-cloud-example.services.payment.main.iml" filepath="$PROJECT_DIR$/.idea/modules/services/payment/spring-cloud-example.services.payment.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/product/spring-cloud-example.services.product.main.iml" filepath="$PROJECT_DIR$/.idea/modules/services/product/spring-cloud-example.services.product.main.iml" />
+    </modules>
+  </component>
+</project>
